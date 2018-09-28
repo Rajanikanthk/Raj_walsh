@@ -1,0 +1,22 @@
+My_name = 'Rajanikanth.Kotty'
+My_age = 38 # I am not joking
+My_height = 166 # Centimeter
+My_weight = 74 #Kg
+My_eyes = 'dark brown' 
+My_teeth = 'pale white'
+My_hair = 'black'
+
+
+Print (f"Let's talk about {My_name}.")
+Print (f"Let's talk about {My_age}.")
+Print (f"Let's talk about {My_height}.")
+Print (f"Let's talk about {My_eyes}.")
+Print (f"Let's talk about {My_teeth}.")
+Print (f"Actually this is kind of sample information")
+
+# below is the learning 
+
+total =My_age + My_height + My_weight
+
+print(f"If I add {My_age},[My_height}, and {My_weight} I get {total}.")
+
